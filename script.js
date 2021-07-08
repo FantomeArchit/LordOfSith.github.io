@@ -5,4 +5,4 @@ setInterval(() => {
     counter.innerText = count;
     count++
     
-}, 1000);
+}, 100);
