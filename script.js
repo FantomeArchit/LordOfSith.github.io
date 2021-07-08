@@ -1,8 +1,8 @@
 let counter = document.querySelector('h1');
-let count= 0;
+let count= 1;
 
 setInterval(() => {
     counter.innerText = count;
     count++
     
-}, 100);
+}, 1000);
